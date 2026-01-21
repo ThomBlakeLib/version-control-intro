@@ -6,5 +6,5 @@ Materials for introduction to version control
 Here's our todo:
 
 - [X] Create a new file
-- [ ] Make our first commit
+- [X] Make our first commit
 - [ ] Fix this tpyo
